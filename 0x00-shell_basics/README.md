@@ -1,1 +1,1 @@
-first delete
+del dir
