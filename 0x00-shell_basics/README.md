@@ -1,1 +1,1 @@
-del dir
+back
