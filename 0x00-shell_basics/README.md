@@ -1,1 +1,1 @@
-long list hidden files
+list digits only
