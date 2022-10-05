@@ -1,1 +1,1 @@
-working dir
+ls script
